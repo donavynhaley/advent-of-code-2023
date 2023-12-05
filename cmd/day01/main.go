@@ -15,10 +15,10 @@ func main() {
 	}
 
 	result := day01.SolvePartOne(string(input))
-	fmt.Printf("Part 1 Input: %v\n", string(input))
+	//fmt.Printf("Part 1 Input: %v\n", string(input))
 	fmt.Printf("Part 1 Result: %v\n", result)
 
-	result = day01.SolvePartTwo(string(input))
-	fmt.Printf("Part 2 Input: %v\n", string(input))
-	fmt.Printf("Part 2 Result: %v\n", result)
+	//result = day01.SolvePartTwo(string(input))
+	//fmt.Printf("Part 2 Input: %v\n", string(input))
+	//fmt.Printf("Part 2 Result: %v\n", result)
 }
